@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/u-tender/static/css/main.c4d8bdd0.css",
+    "main.css": "/u-tender/static/css/main.67f9dc93.css",
     "main.js": "/u-tender/static/js/main.c601e1c9.js",
     "index.html": "/u-tender/index.html",
-    "main.c4d8bdd0.css.map": "/u-tender/static/css/main.c4d8bdd0.css.map",
+    "main.67f9dc93.css.map": "/u-tender/static/css/main.67f9dc93.css.map",
     "main.c601e1c9.js.map": "/u-tender/static/js/main.c601e1c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4d8bdd0.css",
+    "static/css/main.67f9dc93.css",
     "static/js/main.c601e1c9.js"
   ]
 }
